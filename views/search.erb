@@ -1,0 +1,11 @@
+<center><div class="container">
+  <input type="hidden" value=<%= @hideId %> id="hiddenVal">
+  <form action="/search" method="post">
+    <button class="btn btn-default" type="submit" id="clickView" name="submit">View Info</button>
+  </form>
+</div>
+<div>
+  <p>The average critic's rating is <%= @avg_sentiment %></p>
+  <p>The average critic's rating w.r.t 3 stars and below is <%= @avg_sentiment_below4 %></p>
+</div>
+</center>

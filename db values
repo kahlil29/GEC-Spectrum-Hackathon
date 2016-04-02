@@ -1,0 +1,1493 @@
+<?xml version="1.0"?>
+<ss:Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+<ss:Styles><ss:Style ss:ID="1"><ss:Font ss:Bold="1"/></ss:Style></ss:Styles>
+<ss:Worksheet ss:Name="Sqliteman Export">
+<ss:Table>
+<ss:Column ss:Width="100"/>
+<ss:Column ss:Width="100"/>
+<ss:Column ss:Width="100"/>
+<ss:Column ss:Width="100"/>
+<ss:Column ss:Width="100"/>
+<ss:Column ss:Width="100"/>
+<ss:Row ss:StyleID="1">
+<ss:Cell><ss:Data ss:Type="String">id</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">title</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">product_name</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">review_content</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">stars</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">sentiment_score</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2054</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ Apple Rocks but Flipkart Sucks Big time  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ I guess I wont buy anything from FLIPKART, they dont know whats the meaning of PREORDER, Really you guys disappointed me. Your so called customercare executives don't know how to talk in ENGLISH. Seriously guys???? ah???? You guys irritated me to the core from last 4 days, and today finally I got my phone. Next time I will pay more and I will buy in Shop, but not in FLIPKART. 
+Product is Great - 5 stars for the product. 
+-ve for FLIPKART..  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">10.7075111604224</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2055</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ Iphone 6 Gold 16 gb  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ Ordered the phone on 17th friday and flipkart delivered it to me on saturday morning.Highly satisfied with the flipkart delivery and phone.  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">39.6525418029269</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2056</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ Prompt Delivery  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ Ordered IPhone 6 Grey Color and received the same next day. Prompt delivery and proper goods by the seller.  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">94.5599690118495</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2057</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ pathetic  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ I bought I phone 6 with Mobitronics and the seller did not provided valid tax invoice. Moreover, I confirmed from apple servive centre that they will not cover phone under manufacture warranty wiothout tax invoice. Flipkart is fooling us by allowing such sellers to sell the products. Please do not purchase phone from Flipkart ever.   </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">1</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">10.3590842044015</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2058</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ Fake replacement policy  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ The seller has sent me a faulty piece of iPhone 6 and also rejected the replacement request. Guys don't believe in Flipkart's 30 days replacement policy.  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">1</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.22399832110331</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2059</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ VERY BED EXPERIENCE WITH FLIPKART.  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ I m Mitesh Shere
+I puchase too much product from Flipkart. 
+Today i have problem with My New Iphone 6 puchased from Flipkart. 
+Now I have warrantee issue with Apple, Apple is agree to gave me new product 
+BUT FLIPKART HAVE NO DETAILS OF SELLER WHO SALE ME THIS PHONE. FLIPKART DOES NOT CONTAIN SELLER INFORMATION.  
+FLIPKART NOT GIVE ME COPY OF ORIGINAL TAX BILL SO HAVE PROBLEM WITH APPLE REPLACEMENT.  
+WHEN APPLE IS READY BUT ONLY BECAUSE OF FLIPKART MY WARRANTEE NOT CLAIMED. 
+DON'T BUY ANY PRODUCT FROM FLIPKART, YES APPLE IS GREATE BUT FLIPKART IS WASTE, TELEPHONIC REPLY IS SOO STUPID.  
+MITESH SHERE.  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">1</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">8.76833252605152</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2060</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ words?? thousands words are also not enough  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ Ask siri " which is the best phone" and you will have answer "r u kidding me?" :)
+apple at its best @iphone 6  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.9686711534271</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2061</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ Thanks For Fastest Deliver  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ Hello I would thanks To Flipkart (Satendra Kumar) for Fastest dispatching i really Appreciated your Help Sir. 
+Thanks a Lot  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.9993022875313</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2062</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ Definitely Must Buy!!  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ Ordered The Phone And The Expected Date Of Delivery Was 10 Days Ahead, But I Received it After 4 Days, Very Good Phone & Very Good Delivery & Packaging..
+Highly Impressed..
+Thank You Flipkart!  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.9642208097413</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2063</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ Awesome Phone !!! Hopeless Delivery by FlipKart  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String"> 
+ Phone is awesome without any doubt. Go buy it to feel it :) 
+Despite pre-ordering the iPhone on 7th Oct @ 12:13 PM the was delivered on 21st Oct.  
+Flipkart must always prioritize pre-orders. 
+Same is happening with me for other order made on or after Big Billion Day. I thing filpkart must work on it's delivery logistics.  </ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">48.3891874880537</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2064</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Just Perfect</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect phone with all the Finesse,Best hardware and software combination.
+Snapdeal as usual provides good service and best price.
+Happy with the purchase</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8086439989031</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2065</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect dil ki deal ! - iPhone 6s</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Initially, i was confused whether i should buy my iPhone 6s from an apple retailer or from an online retailer through Snapdeal.  But then i saw this deal on Snapdeal where i was getting 10% discount + extra offer discount. Within few minutes i ordered this phone at a very very low price as compared to the market price.
+I ordered this phone on 28/11/15 and it was in my hand on 30/11/15. Hats Off Snapdeal !
+
+Now, why iPhone 6s ?
+
+Camera 5/5
+Design 4/5
+Feature 5/5
+Performance 5/5
+Battery 3.5/5
+
+So if you want to shift from android to ios, this is your phone. But if you are already using iPhone 6 then think about it again.
+
+So, great product, great service, great deal !</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">94.5294175102779</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2066</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Good Phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Using 6s from 1 month, purchased because i just wanted to buy it, didn't checked any feature or specifications anywhere before purchasing.
+
+Downloaded and played all heavy games, runs smooth.
+
+Performance is great, phone never hangs, no matter u launch something and immediately cancel, or launch some other app.
+
+Display is something which no other manufacturer can replicate.
+
+Retina display is so good, makes eyes feel no pressure.
+
+I have used 2 androids, 2 Windows phones, this is the first apple phone, and its up to my expectations.
+
+If its costly, that's what makes is Apple.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">90.3388295162428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2067</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone 6s - Ridiculously powerful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Yup. What am going to say is completely real. The moment you get the iPhone 6S you will feel some super natural force comes into your hand. Do not laugh. This is real. The look, grace, elegance, ravishing looks, beauty and what not are the characteristics of the phone. This is blend of extremely fast, smart, powerful, premium, perfection which makes you feel like a ultimate mobile in your hand. The battery is superb and lasting for many hours.  Seriously you do not need an another battery. Sorry samsung. It is really really worth to buy this product. This make you gorgeous. Trust me. It is truly apt - if it is not an iPhone it is not an IPhone.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.99839110602</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2068</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Best phone money can buy currently</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome build quality
+Great battery
+Mindblowing display
+Gaming experience is unmatched</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">98.1444543662396</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2069</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone is Perfect.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">The Phone is perfect. I've been using Apple for the last 8years now. This is my first Apple product bought in India and first high-value product bought on-line with alot of doubts like originality, warranty and other issues. I am completely satisfied with the product . The only area where i was disappointed was the delivery of Xpressbees. The product has reached Hyderabad from Bangalore in 2 days and it took the delivery guys to deliver the product in Hyderabad after 4days....</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.126785455513885</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2070</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wonderful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Snapdeal thanks for providing me this wonderful  iPhone 6s. It is really beautifully designed with awesome new features</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.995654608653</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2071</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome feel with fast delivery of SD</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Box packed piece with good packing, delivered within two days. Original product with all original accessories in box.
+Using iPhone 6S gives premium feel than any other competitors in same segment. 
+In this price segment hardware,performance, function, features are almost same, what matter is body material, looks, feel which is just awesome.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8420334110428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2072</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Great UI as expected but heats up while calling</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome interface but heats up significantly if use any apps while on call.. Or when u charge while on call.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">61.8490756128954</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2073</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">superb deal awesome phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">firstly i thought how come it be so cheap, there must be some something not right. but then i thought i can return it within 7 day replacement/return  warranty. but when i recieved it it was in excellent packing and excellent condition. i just love it. snapdeal u rock.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">79.8985956271455</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2074</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Just Perfect</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect phone with all the Finesse,Best hardware and software combination.
+Snapdeal as usual provides good service and best price.
+Happy with the purchase</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8086439989031</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2075</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect dil ki deal ! - iPhone 6s</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Initially, i was confused whether i should buy my iPhone 6s from an apple retailer or from an online retailer through Snapdeal.  But then i saw this deal on Snapdeal where i was getting 10% discount + extra offer discount. Within few minutes i ordered this phone at a very very low price as compared to the market price.
+I ordered this phone on 28/11/15 and it was in my hand on 30/11/15. Hats Off Snapdeal !
+
+Now, why iPhone 6s ?
+
+Camera 5/5
+Design 4/5
+Feature 5/5
+Performance 5/5
+Battery 3.5/5
+
+So if you want to shift from android to ios, this is your phone. But if you are already using iPhone 6 then think about it again.
+
+So, great product, great service, great deal !</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">94.5294175102779</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2076</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Good Phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Using 6s from 1 month, purchased because i just wanted to buy it, didn't checked any feature or specifications anywhere before purchasing.
+
+Downloaded and played all heavy games, runs smooth.
+
+Performance is great, phone never hangs, no matter u launch something and immediately cancel, or launch some other app.
+
+Display is something which no other manufacturer can replicate.
+
+Retina display is so good, makes eyes feel no pressure.
+
+I have used 2 androids, 2 Windows phones, this is the first apple phone, and its up to my expectations.
+
+If its costly, that's what makes is Apple.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">90.3388295162428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2077</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone 6s - Ridiculously powerful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Yup. What am going to say is completely real. The moment you get the iPhone 6S you will feel some super natural force comes into your hand. Do not laugh. This is real. The look, grace, elegance, ravishing looks, beauty and what not are the characteristics of the phone. This is blend of extremely fast, smart, powerful, premium, perfection which makes you feel like a ultimate mobile in your hand. The battery is superb and lasting for many hours.  Seriously you do not need an another battery. Sorry samsung. It is really really worth to buy this product. This make you gorgeous. Trust me. It is truly apt - if it is not an iPhone it is not an IPhone.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.99839110602</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2078</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Best phone money can buy currently</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome build quality
+Great battery
+Mindblowing display
+Gaming experience is unmatched</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">98.1444543662396</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2079</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone is Perfect.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">The Phone is perfect. I've been using Apple for the last 8years now. This is my first Apple product bought in India and first high-value product bought on-line with alot of doubts like originality, warranty and other issues. I am completely satisfied with the product . The only area where i was disappointed was the delivery of Xpressbees. The product has reached Hyderabad from Bangalore in 2 days and it took the delivery guys to deliver the product in Hyderabad after 4days....</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.126785455513885</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2080</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wonderful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Snapdeal thanks for providing me this wonderful  iPhone 6s. It is really beautifully designed with awesome new features</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.995654608653</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2081</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome feel with fast delivery of SD</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Box packed piece with good packing, delivered within two days. Original product with all original accessories in box.
+Using iPhone 6S gives premium feel than any other competitors in same segment. 
+In this price segment hardware,performance, function, features are almost same, what matter is body material, looks, feel which is just awesome.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8420334110428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2082</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Great UI as expected but heats up while calling</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome interface but heats up significantly if use any apps while on call.. Or when u charge while on call.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">61.8490756128954</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2083</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">superb deal awesome phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">firstly i thought how come it be so cheap, there must be some something not right. but then i thought i can return it within 7 day replacement/return  warranty. but when i recieved it it was in excellent packing and excellent condition. i just love it. snapdeal u rock.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">79.8985956271455</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2084</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Just Perfect</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect phone with all the Finesse,Best hardware and software combination.
+Snapdeal as usual provides good service and best price.
+Happy with the purchase</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8086439989031</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2085</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect dil ki deal ! - iPhone 6s</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Initially, i was confused whether i should buy my iPhone 6s from an apple retailer or from an online retailer through Snapdeal.  But then i saw this deal on Snapdeal where i was getting 10% discount + extra offer discount. Within few minutes i ordered this phone at a very very low price as compared to the market price.
+I ordered this phone on 28/11/15 and it was in my hand on 30/11/15. Hats Off Snapdeal !
+
+Now, why iPhone 6s ?
+
+Camera 5/5
+Design 4/5
+Feature 5/5
+Performance 5/5
+Battery 3.5/5
+
+So if you want to shift from android to ios, this is your phone. But if you are already using iPhone 6 then think about it again.
+
+So, great product, great service, great deal !</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">94.5294175102779</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2086</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Good Phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Using 6s from 1 month, purchased because i just wanted to buy it, didn't checked any feature or specifications anywhere before purchasing.
+
+Downloaded and played all heavy games, runs smooth.
+
+Performance is great, phone never hangs, no matter u launch something and immediately cancel, or launch some other app.
+
+Display is something which no other manufacturer can replicate.
+
+Retina display is so good, makes eyes feel no pressure.
+
+I have used 2 androids, 2 Windows phones, this is the first apple phone, and its up to my expectations.
+
+If its costly, that's what makes is Apple.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">90.3388295162428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2087</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone 6s - Ridiculously powerful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Yup. What am going to say is completely real. The moment you get the iPhone 6S you will feel some super natural force comes into your hand. Do not laugh. This is real. The look, grace, elegance, ravishing looks, beauty and what not are the characteristics of the phone. This is blend of extremely fast, smart, powerful, premium, perfection which makes you feel like a ultimate mobile in your hand. The battery is superb and lasting for many hours.  Seriously you do not need an another battery. Sorry samsung. It is really really worth to buy this product. This make you gorgeous. Trust me. It is truly apt - if it is not an iPhone it is not an IPhone.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.99839110602</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2088</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Best phone money can buy currently</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome build quality
+Great battery
+Mindblowing display
+Gaming experience is unmatched</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">98.1444543662396</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2089</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone is Perfect.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">The Phone is perfect. I've been using Apple for the last 8years now. This is my first Apple product bought in India and first high-value product bought on-line with alot of doubts like originality, warranty and other issues. I am completely satisfied with the product . The only area where i was disappointed was the delivery of Xpressbees. The product has reached Hyderabad from Bangalore in 2 days and it took the delivery guys to deliver the product in Hyderabad after 4days....</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.126785455513885</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2090</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wonderful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Snapdeal thanks for providing me this wonderful  iPhone 6s. It is really beautifully designed with awesome new features</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.995654608653</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2091</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome feel with fast delivery of SD</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Box packed piece with good packing, delivered within two days. Original product with all original accessories in box.
+Using iPhone 6S gives premium feel than any other competitors in same segment. 
+In this price segment hardware,performance, function, features are almost same, what matter is body material, looks, feel which is just awesome.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8420334110428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2092</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Great UI as expected but heats up while calling</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome interface but heats up significantly if use any apps while on call.. Or when u charge while on call.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">61.8490756128954</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2093</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">superb deal awesome phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">firstly i thought how come it be so cheap, there must be some something not right. but then i thought i can return it within 7 day replacement/return  warranty. but when i recieved it it was in excellent packing and excellent condition. i just love it. snapdeal u rock.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">79.8985956271455</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2094</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Just Perfect</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect phone with all the Finesse,Best hardware and software combination.
+Snapdeal as usual provides good service and best price.
+Happy with the purchase</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8086439989031</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2095</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect dil ki deal ! - iPhone 6s</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Initially, i was confused whether i should buy my iPhone 6s from an apple retailer or from an online retailer through Snapdeal.  But then i saw this deal on Snapdeal where i was getting 10% discount + extra offer discount. Within few minutes i ordered this phone at a very very low price as compared to the market price.
+I ordered this phone on 28/11/15 and it was in my hand on 30/11/15. Hats Off Snapdeal !
+
+Now, why iPhone 6s ?
+
+Camera 5/5
+Design 4/5
+Feature 5/5
+Performance 5/5
+Battery 3.5/5
+
+So if you want to shift from android to ios, this is your phone. But if you are already using iPhone 6 then think about it again.
+
+So, great product, great service, great deal !</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">94.5294175102779</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2096</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Good Phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Using 6s from 1 month, purchased because i just wanted to buy it, didn't checked any feature or specifications anywhere before purchasing.
+
+Downloaded and played all heavy games, runs smooth.
+
+Performance is great, phone never hangs, no matter u launch something and immediately cancel, or launch some other app.
+
+Display is something which no other manufacturer can replicate.
+
+Retina display is so good, makes eyes feel no pressure.
+
+I have used 2 androids, 2 Windows phones, this is the first apple phone, and its up to my expectations.
+
+If its costly, that's what makes is Apple.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">90.3388295162428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2097</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone 6s - Ridiculously powerful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Yup. What am going to say is completely real. The moment you get the iPhone 6S you will feel some super natural force comes into your hand. Do not laugh. This is real. The look, grace, elegance, ravishing looks, beauty and what not are the characteristics of the phone. This is blend of extremely fast, smart, powerful, premium, perfection which makes you feel like a ultimate mobile in your hand. The battery is superb and lasting for many hours.  Seriously you do not need an another battery. Sorry samsung. It is really really worth to buy this product. This make you gorgeous. Trust me. It is truly apt - if it is not an iPhone it is not an IPhone.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.99839110602</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2098</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Best phone money can buy currently</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome build quality
+Great battery
+Mindblowing display
+Gaming experience is unmatched</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">98.1444543662396</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2099</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone is Perfect.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">The Phone is perfect. I've been using Apple for the last 8years now. This is my first Apple product bought in India and first high-value product bought on-line with alot of doubts like originality, warranty and other issues. I am completely satisfied with the product . The only area where i was disappointed was the delivery of Xpressbees. The product has reached Hyderabad from Bangalore in 2 days and it took the delivery guys to deliver the product in Hyderabad after 4days....</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.126785455513885</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2100</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wonderful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Snapdeal thanks for providing me this wonderful  iPhone 6s. It is really beautifully designed with awesome new features</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.995654608653</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2101</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome feel with fast delivery of SD</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Box packed piece with good packing, delivered within two days. Original product with all original accessories in box.
+Using iPhone 6S gives premium feel than any other competitors in same segment. 
+In this price segment hardware,performance, function, features are almost same, what matter is body material, looks, feel which is just awesome.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8420334110428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2102</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Great UI as expected but heats up while calling</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome interface but heats up significantly if use any apps while on call.. Or when u charge while on call.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">61.8490756128954</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2103</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">superb deal awesome phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">firstly i thought how come it be so cheap, there must be some something not right. but then i thought i can return it within 7 day replacement/return  warranty. but when i recieved it it was in excellent packing and excellent condition. i just love it. snapdeal u rock.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">79.8985956271455</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2104</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Just Perfect</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect phone with all the Finesse,Best hardware and software combination.
+Snapdeal as usual provides good service and best price.
+Happy with the purchase</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8086439989031</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2105</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect dil ki deal ! - iPhone 6s</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Initially, i was confused whether i should buy my iPhone 6s from an apple retailer or from an online retailer through Snapdeal.  But then i saw this deal on Snapdeal where i was getting 10% discount + extra offer discount. Within few minutes i ordered this phone at a very very low price as compared to the market price.
+I ordered this phone on 28/11/15 and it was in my hand on 30/11/15. Hats Off Snapdeal !
+
+Now, why iPhone 6s ?
+
+Camera 5/5
+Design 4/5
+Feature 5/5
+Performance 5/5
+Battery 3.5/5
+
+So if you want to shift from android to ios, this is your phone. But if you are already using iPhone 6 then think about it again.
+
+So, great product, great service, great deal !</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">94.5294175102779</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2106</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Good Phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Using 6s from 1 month, purchased because i just wanted to buy it, didn't checked any feature or specifications anywhere before purchasing.
+
+Downloaded and played all heavy games, runs smooth.
+
+Performance is great, phone never hangs, no matter u launch something and immediately cancel, or launch some other app.
+
+Display is something which no other manufacturer can replicate.
+
+Retina display is so good, makes eyes feel no pressure.
+
+I have used 2 androids, 2 Windows phones, this is the first apple phone, and its up to my expectations.
+
+If its costly, that's what makes is Apple.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">90.3388295162428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2107</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone 6s - Ridiculously powerful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Yup. What am going to say is completely real. The moment you get the iPhone 6S you will feel some super natural force comes into your hand. Do not laugh. This is real. The look, grace, elegance, ravishing looks, beauty and what not are the characteristics of the phone. This is blend of extremely fast, smart, powerful, premium, perfection which makes you feel like a ultimate mobile in your hand. The battery is superb and lasting for many hours.  Seriously you do not need an another battery. Sorry samsung. It is really really worth to buy this product. This make you gorgeous. Trust me. It is truly apt - if it is not an iPhone it is not an IPhone.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.99839110602</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2108</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Best phone money can buy currently</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome build quality
+Great battery
+Mindblowing display
+Gaming experience is unmatched</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">98.1444543662396</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2109</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone is Perfect.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">The Phone is perfect. I've been using Apple for the last 8years now. This is my first Apple product bought in India and first high-value product bought on-line with alot of doubts like originality, warranty and other issues. I am completely satisfied with the product . The only area where i was disappointed was the delivery of Xpressbees. The product has reached Hyderabad from Bangalore in 2 days and it took the delivery guys to deliver the product in Hyderabad after 4days....</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.126785455513885</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2110</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wonderful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Snapdeal thanks for providing me this wonderful  iPhone 6s. It is really beautifully designed with awesome new features</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.995654608653</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2111</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome feel with fast delivery of SD</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Box packed piece with good packing, delivered within two days. Original product with all original accessories in box.
+Using iPhone 6S gives premium feel than any other competitors in same segment. 
+In this price segment hardware,performance, function, features are almost same, what matter is body material, looks, feel which is just awesome.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8420334110428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2112</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Great UI as expected but heats up while calling</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome interface but heats up significantly if use any apps while on call.. Or when u charge while on call.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">61.8490756128954</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2113</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">superb deal awesome phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">firstly i thought how come it be so cheap, there must be some something not right. but then i thought i can return it within 7 day replacement/return  warranty. but when i recieved it it was in excellent packing and excellent condition. i just love it. snapdeal u rock.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">79.8985956271455</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2114</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Just Perfect</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect phone with all the Finesse,Best hardware and software combination.
+Snapdeal as usual provides good service and best price.
+Happy with the purchase</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8086439989031</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2115</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect dil ki deal ! - iPhone 6s</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Initially, i was confused whether i should buy my iPhone 6s from an apple retailer or from an online retailer through Snapdeal.  But then i saw this deal on Snapdeal where i was getting 10% discount + extra offer discount. Within few minutes i ordered this phone at a very very low price as compared to the market price.
+I ordered this phone on 28/11/15 and it was in my hand on 30/11/15. Hats Off Snapdeal !
+
+Now, why iPhone 6s ?
+
+Camera 5/5
+Design 4/5
+Feature 5/5
+Performance 5/5
+Battery 3.5/5
+
+So if you want to shift from android to ios, this is your phone. But if you are already using iPhone 6 then think about it again.
+
+So, great product, great service, great deal !</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">94.5294175102779</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2116</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Good Phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Using 6s from 1 month, purchased because i just wanted to buy it, didn't checked any feature or specifications anywhere before purchasing.
+
+Downloaded and played all heavy games, runs smooth.
+
+Performance is great, phone never hangs, no matter u launch something and immediately cancel, or launch some other app.
+
+Display is something which no other manufacturer can replicate.
+
+Retina display is so good, makes eyes feel no pressure.
+
+I have used 2 androids, 2 Windows phones, this is the first apple phone, and its up to my expectations.
+
+If its costly, that's what makes is Apple.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">90.3388295162428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2117</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone 6s - Ridiculously powerful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Yup. What am going to say is completely real. The moment you get the iPhone 6S you will feel some super natural force comes into your hand. Do not laugh. This is real. The look, grace, elegance, ravishing looks, beauty and what not are the characteristics of the phone. This is blend of extremely fast, smart, powerful, premium, perfection which makes you feel like a ultimate mobile in your hand. The battery is superb and lasting for many hours.  Seriously you do not need an another battery. Sorry samsung. It is really really worth to buy this product. This make you gorgeous. Trust me. It is truly apt - if it is not an iPhone it is not an IPhone.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.99839110602</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2118</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Best phone money can buy currently</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome build quality
+Great battery
+Mindblowing display
+Gaming experience is unmatched</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">98.1444543662396</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2119</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone is Perfect.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">The Phone is perfect. I've been using Apple for the last 8years now. This is my first Apple product bought in India and first high-value product bought on-line with alot of doubts like originality, warranty and other issues. I am completely satisfied with the product . The only area where i was disappointed was the delivery of Xpressbees. The product has reached Hyderabad from Bangalore in 2 days and it took the delivery guys to deliver the product in Hyderabad after 4days....</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.126785455513885</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2120</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wonderful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Snapdeal thanks for providing me this wonderful  iPhone 6s. It is really beautifully designed with awesome new features</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.995654608653</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2121</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome feel with fast delivery of SD</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Box packed piece with good packing, delivered within two days. Original product with all original accessories in box.
+Using iPhone 6S gives premium feel than any other competitors in same segment. 
+In this price segment hardware,performance, function, features are almost same, what matter is body material, looks, feel which is just awesome.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8420334110428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2122</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Great UI as expected but heats up while calling</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome interface but heats up significantly if use any apps while on call.. Or when u charge while on call.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">61.8490756128954</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2123</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">superb deal awesome phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">firstly i thought how come it be so cheap, there must be some something not right. but then i thought i can return it within 7 day replacement/return  warranty. but when i recieved it it was in excellent packing and excellent condition. i just love it. snapdeal u rock.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">79.8985956271455</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2124</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Just Perfect</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect phone with all the Finesse,Best hardware and software combination.
+Snapdeal as usual provides good service and best price.
+Happy with the purchase</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8086439989031</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2125</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect dil ki deal ! - iPhone 6s</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Initially, i was confused whether i should buy my iPhone 6s from an apple retailer or from an online retailer through Snapdeal.  But then i saw this deal on Snapdeal where i was getting 10% discount + extra offer discount. Within few minutes i ordered this phone at a very very low price as compared to the market price.
+I ordered this phone on 28/11/15 and it was in my hand on 30/11/15. Hats Off Snapdeal !
+
+Now, why iPhone 6s ?
+
+Camera 5/5
+Design 4/5
+Feature 5/5
+Performance 5/5
+Battery 3.5/5
+
+So if you want to shift from android to ios, this is your phone. But if you are already using iPhone 6 then think about it again.
+
+So, great product, great service, great deal !</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">94.5294175102779</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2126</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Good Phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Using 6s from 1 month, purchased because i just wanted to buy it, didn't checked any feature or specifications anywhere before purchasing.
+
+Downloaded and played all heavy games, runs smooth.
+
+Performance is great, phone never hangs, no matter u launch something and immediately cancel, or launch some other app.
+
+Display is something which no other manufacturer can replicate.
+
+Retina display is so good, makes eyes feel no pressure.
+
+I have used 2 androids, 2 Windows phones, this is the first apple phone, and its up to my expectations.
+
+If its costly, that's what makes is Apple.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">90.3388295162428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2127</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone 6s - Ridiculously powerful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Yup. What am going to say is completely real. The moment you get the iPhone 6S you will feel some super natural force comes into your hand. Do not laugh. This is real. The look, grace, elegance, ravishing looks, beauty and what not are the characteristics of the phone. This is blend of extremely fast, smart, powerful, premium, perfection which makes you feel like a ultimate mobile in your hand. The battery is superb and lasting for many hours.  Seriously you do not need an another battery. Sorry samsung. It is really really worth to buy this product. This make you gorgeous. Trust me. It is truly apt - if it is not an iPhone it is not an IPhone.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.99839110602</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2128</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Best phone money can buy currently</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome build quality
+Great battery
+Mindblowing display
+Gaming experience is unmatched</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">98.1444543662396</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2129</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone is Perfect.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">The Phone is perfect. I've been using Apple for the last 8years now. This is my first Apple product bought in India and first high-value product bought on-line with alot of doubts like originality, warranty and other issues. I am completely satisfied with the product . The only area where i was disappointed was the delivery of Xpressbees. The product has reached Hyderabad from Bangalore in 2 days and it took the delivery guys to deliver the product in Hyderabad after 4days....</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.126785455513885</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2130</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wonderful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Snapdeal thanks for providing me this wonderful  iPhone 6s. It is really beautifully designed with awesome new features</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.995654608653</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2131</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome feel with fast delivery of SD</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Box packed piece with good packing, delivered within two days. Original product with all original accessories in box.
+Using iPhone 6S gives premium feel than any other competitors in same segment. 
+In this price segment hardware,performance, function, features are almost same, what matter is body material, looks, feel which is just awesome.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8420334110428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2132</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Great UI as expected but heats up while calling</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome interface but heats up significantly if use any apps while on call.. Or when u charge while on call.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">61.8490756128954</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2133</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">superb deal awesome phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">firstly i thought how come it be so cheap, there must be some something not right. but then i thought i can return it within 7 day replacement/return  warranty. but when i recieved it it was in excellent packing and excellent condition. i just love it. snapdeal u rock.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">79.8985956271455</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2134</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Just Perfect</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect phone with all the Finesse,Best hardware and software combination.
+Snapdeal as usual provides good service and best price.
+Happy with the purchase</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8086439989031</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2135</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect dil ki deal ! - iPhone 6s</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Initially, i was confused whether i should buy my iPhone 6s from an apple retailer or from an online retailer through Snapdeal.  But then i saw this deal on Snapdeal where i was getting 10% discount + extra offer discount. Within few minutes i ordered this phone at a very very low price as compared to the market price.
+I ordered this phone on 28/11/15 and it was in my hand on 30/11/15. Hats Off Snapdeal !
+
+Now, why iPhone 6s ?
+
+Camera 5/5
+Design 4/5
+Feature 5/5
+Performance 5/5
+Battery 3.5/5
+
+So if you want to shift from android to ios, this is your phone. But if you are already using iPhone 6 then think about it again.
+
+So, great product, great service, great deal !</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">94.5294175102779</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2136</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Good Phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Using 6s from 1 month, purchased because i just wanted to buy it, didn't checked any feature or specifications anywhere before purchasing.
+
+Downloaded and played all heavy games, runs smooth.
+
+Performance is great, phone never hangs, no matter u launch something and immediately cancel, or launch some other app.
+
+Display is something which no other manufacturer can replicate.
+
+Retina display is so good, makes eyes feel no pressure.
+
+I have used 2 androids, 2 Windows phones, this is the first apple phone, and its up to my expectations.
+
+If its costly, that's what makes is Apple.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">90.3388295162428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2137</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone 6s - Ridiculously powerful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Yup. What am going to say is completely real. The moment you get the iPhone 6S you will feel some super natural force comes into your hand. Do not laugh. This is real. The look, grace, elegance, ravishing looks, beauty and what not are the characteristics of the phone. This is blend of extremely fast, smart, powerful, premium, perfection which makes you feel like a ultimate mobile in your hand. The battery is superb and lasting for many hours.  Seriously you do not need an another battery. Sorry samsung. It is really really worth to buy this product. This make you gorgeous. Trust me. It is truly apt - if it is not an iPhone it is not an IPhone.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.99839110602</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2138</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Best phone money can buy currently</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome build quality
+Great battery
+Mindblowing display
+Gaming experience is unmatched</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">98.1444543662396</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2139</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone is Perfect.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">The Phone is perfect. I've been using Apple for the last 8years now. This is my first Apple product bought in India and first high-value product bought on-line with alot of doubts like originality, warranty and other issues. I am completely satisfied with the product . The only area where i was disappointed was the delivery of Xpressbees. The product has reached Hyderabad from Bangalore in 2 days and it took the delivery guys to deliver the product in Hyderabad after 4days....</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.126785455513885</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2140</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wonderful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Snapdeal thanks for providing me this wonderful  iPhone 6s. It is really beautifully designed with awesome new features</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.995654608653</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2141</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome feel with fast delivery of SD</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Box packed piece with good packing, delivered within two days. Original product with all original accessories in box.
+Using iPhone 6S gives premium feel than any other competitors in same segment. 
+In this price segment hardware,performance, function, features are almost same, what matter is body material, looks, feel which is just awesome.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8420334110428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2142</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Great UI as expected but heats up while calling</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome interface but heats up significantly if use any apps while on call.. Or when u charge while on call.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">61.8490756128954</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2143</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">superb deal awesome phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">firstly i thought how come it be so cheap, there must be some something not right. but then i thought i can return it within 7 day replacement/return  warranty. but when i recieved it it was in excellent packing and excellent condition. i just love it. snapdeal u rock.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">79.8985956271455</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2144</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Just Perfect</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect phone with all the Finesse,Best hardware and software combination.
+Snapdeal as usual provides good service and best price.
+Happy with the purchase</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8086439989031</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2145</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect dil ki deal ! - iPhone 6s</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Initially, i was confused whether i should buy my iPhone 6s from an apple retailer or from an online retailer through Snapdeal.  But then i saw this deal on Snapdeal where i was getting 10% discount + extra offer discount. Within few minutes i ordered this phone at a very very low price as compared to the market price.
+I ordered this phone on 28/11/15 and it was in my hand on 30/11/15. Hats Off Snapdeal !
+
+Now, why iPhone 6s ?
+
+Camera 5/5
+Design 4/5
+Feature 5/5
+Performance 5/5
+Battery 3.5/5
+
+So if you want to shift from android to ios, this is your phone. But if you are already using iPhone 6 then think about it again.
+
+So, great product, great service, great deal !</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">94.5294175102779</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2146</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Good Phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Using 6s from 1 month, purchased because i just wanted to buy it, didn't checked any feature or specifications anywhere before purchasing.
+
+Downloaded and played all heavy games, runs smooth.
+
+Performance is great, phone never hangs, no matter u launch something and immediately cancel, or launch some other app.
+
+Display is something which no other manufacturer can replicate.
+
+Retina display is so good, makes eyes feel no pressure.
+
+I have used 2 androids, 2 Windows phones, this is the first apple phone, and its up to my expectations.
+
+If its costly, that's what makes is Apple.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">90.3388295162428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2147</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone 6s - Ridiculously powerful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Yup. What am going to say is completely real. The moment you get the iPhone 6S you will feel some super natural force comes into your hand. Do not laugh. This is real. The look, grace, elegance, ravishing looks, beauty and what not are the characteristics of the phone. This is blend of extremely fast, smart, powerful, premium, perfection which makes you feel like a ultimate mobile in your hand. The battery is superb and lasting for many hours.  Seriously you do not need an another battery. Sorry samsung. It is really really worth to buy this product. This make you gorgeous. Trust me. It is truly apt - if it is not an iPhone it is not an IPhone.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.99839110602</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2148</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Best phone money can buy currently</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome build quality
+Great battery
+Mindblowing display
+Gaming experience is unmatched</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">98.1444543662396</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2149</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone is Perfect.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">The Phone is perfect. I've been using Apple for the last 8years now. This is my first Apple product bought in India and first high-value product bought on-line with alot of doubts like originality, warranty and other issues. I am completely satisfied with the product . The only area where i was disappointed was the delivery of Xpressbees. The product has reached Hyderabad from Bangalore in 2 days and it took the delivery guys to deliver the product in Hyderabad after 4days....</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.126785455513885</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2150</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wonderful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Snapdeal thanks for providing me this wonderful  iPhone 6s. It is really beautifully designed with awesome new features</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.995654608653</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2151</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome feel with fast delivery of SD</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Box packed piece with good packing, delivered within two days. Original product with all original accessories in box.
+Using iPhone 6S gives premium feel than any other competitors in same segment. 
+In this price segment hardware,performance, function, features are almost same, what matter is body material, looks, feel which is just awesome.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8420334110428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2152</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Great UI as expected but heats up while calling</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome interface but heats up significantly if use any apps while on call.. Or when u charge while on call.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">61.8490756128954</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2153</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">superb deal awesome phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">firstly i thought how come it be so cheap, there must be some something not right. but then i thought i can return it within 7 day replacement/return  warranty. but when i recieved it it was in excellent packing and excellent condition. i just love it. snapdeal u rock.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">79.8985956271455</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2154</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Just Perfect</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect phone with all the Finesse,Best hardware and software combination.
+Snapdeal as usual provides good service and best price.
+Happy with the purchase</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8086439989031</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2155</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect dil ki deal ! - iPhone 6s</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Initially, i was confused whether i should buy my iPhone 6s from an apple retailer or from an online retailer through Snapdeal.  But then i saw this deal on Snapdeal where i was getting 10% discount + extra offer discount. Within few minutes i ordered this phone at a very very low price as compared to the market price.
+I ordered this phone on 28/11/15 and it was in my hand on 30/11/15. Hats Off Snapdeal !
+
+Now, why iPhone 6s ?
+
+Camera 5/5
+Design 4/5
+Feature 5/5
+Performance 5/5
+Battery 3.5/5
+
+So if you want to shift from android to ios, this is your phone. But if you are already using iPhone 6 then think about it again.
+
+So, great product, great service, great deal !</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">94.5294175102779</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2156</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Good Phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Using 6s from 1 month, purchased because i just wanted to buy it, didn't checked any feature or specifications anywhere before purchasing.
+
+Downloaded and played all heavy games, runs smooth.
+
+Performance is great, phone never hangs, no matter u launch something and immediately cancel, or launch some other app.
+
+Display is something which no other manufacturer can replicate.
+
+Retina display is so good, makes eyes feel no pressure.
+
+I have used 2 androids, 2 Windows phones, this is the first apple phone, and its up to my expectations.
+
+If its costly, that's what makes is Apple.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">90.3388295162428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2157</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone 6s - Ridiculously powerful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Yup. What am going to say is completely real. The moment you get the iPhone 6S you will feel some super natural force comes into your hand. Do not laugh. This is real. The look, grace, elegance, ravishing looks, beauty and what not are the characteristics of the phone. This is blend of extremely fast, smart, powerful, premium, perfection which makes you feel like a ultimate mobile in your hand. The battery is superb and lasting for many hours.  Seriously you do not need an another battery. Sorry samsung. It is really really worth to buy this product. This make you gorgeous. Trust me. It is truly apt - if it is not an iPhone it is not an IPhone.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.99839110602</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2158</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Best phone money can buy currently</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome build quality
+Great battery
+Mindblowing display
+Gaming experience is unmatched</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">98.1444543662396</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2159</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone is Perfect.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">The Phone is perfect. I've been using Apple for the last 8years now. This is my first Apple product bought in India and first high-value product bought on-line with alot of doubts like originality, warranty and other issues. I am completely satisfied with the product . The only area where i was disappointed was the delivery of Xpressbees. The product has reached Hyderabad from Bangalore in 2 days and it took the delivery guys to deliver the product in Hyderabad after 4days....</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.126785455513885</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2160</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wonderful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Snapdeal thanks for providing me this wonderful  iPhone 6s. It is really beautifully designed with awesome new features</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.995654608653</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2161</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome feel with fast delivery of SD</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Box packed piece with good packing, delivered within two days. Original product with all original accessories in box.
+Using iPhone 6S gives premium feel than any other competitors in same segment. 
+In this price segment hardware,performance, function, features are almost same, what matter is body material, looks, feel which is just awesome.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8420334110428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2162</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Great UI as expected but heats up while calling</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome interface but heats up significantly if use any apps while on call.. Or when u charge while on call.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">61.8490756128954</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2163</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">superb deal awesome phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">firstly i thought how come it be so cheap, there must be some something not right. but then i thought i can return it within 7 day replacement/return  warranty. but when i recieved it it was in excellent packing and excellent condition. i just love it. snapdeal u rock.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">79.8985956271455</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2164</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Just Perfect</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect phone with all the Finesse,Best hardware and software combination.
+Snapdeal as usual provides good service and best price.
+Happy with the purchase</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8086439989031</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2165</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect dil ki deal ! - iPhone 6s</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Initially, i was confused whether i should buy my iPhone 6s from an apple retailer or from an online retailer through Snapdeal.  But then i saw this deal on Snapdeal where i was getting 10% discount + extra offer discount. Within few minutes i ordered this phone at a very very low price as compared to the market price.
+I ordered this phone on 28/11/15 and it was in my hand on 30/11/15. Hats Off Snapdeal !
+
+Now, why iPhone 6s ?
+
+Camera 5/5
+Design 4/5
+Feature 5/5
+Performance 5/5
+Battery 3.5/5
+
+So if you want to shift from android to ios, this is your phone. But if you are already using iPhone 6 then think about it again.
+
+So, great product, great service, great deal !</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">94.5294175102779</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2166</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Good Phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Using 6s from 1 month, purchased because i just wanted to buy it, didn't checked any feature or specifications anywhere before purchasing.
+
+Downloaded and played all heavy games, runs smooth.
+
+Performance is great, phone never hangs, no matter u launch something and immediately cancel, or launch some other app.
+
+Display is something which no other manufacturer can replicate.
+
+Retina display is so good, makes eyes feel no pressure.
+
+I have used 2 androids, 2 Windows phones, this is the first apple phone, and its up to my expectations.
+
+If its costly, that's what makes is Apple.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">90.3388295162428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2167</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone 6s - Ridiculously powerful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Yup. What am going to say is completely real. The moment you get the iPhone 6S you will feel some super natural force comes into your hand. Do not laugh. This is real. The look, grace, elegance, ravishing looks, beauty and what not are the characteristics of the phone. This is blend of extremely fast, smart, powerful, premium, perfection which makes you feel like a ultimate mobile in your hand. The battery is superb and lasting for many hours.  Seriously you do not need an another battery. Sorry samsung. It is really really worth to buy this product. This make you gorgeous. Trust me. It is truly apt - if it is not an iPhone it is not an IPhone.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.99839110602</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2168</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Best phone money can buy currently</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome build quality
+Great battery
+Mindblowing display
+Gaming experience is unmatched</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">98.1444543662396</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2169</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone is Perfect.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">The Phone is perfect. I've been using Apple for the last 8years now. This is my first Apple product bought in India and first high-value product bought on-line with alot of doubts like originality, warranty and other issues. I am completely satisfied with the product . The only area where i was disappointed was the delivery of Xpressbees. The product has reached Hyderabad from Bangalore in 2 days and it took the delivery guys to deliver the product in Hyderabad after 4days....</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.126785455513885</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2170</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wonderful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Snapdeal thanks for providing me this wonderful  iPhone 6s. It is really beautifully designed with awesome new features</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.995654608653</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2171</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome feel with fast delivery of SD</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Box packed piece with good packing, delivered within two days. Original product with all original accessories in box.
+Using iPhone 6S gives premium feel than any other competitors in same segment. 
+In this price segment hardware,performance, function, features are almost same, what matter is body material, looks, feel which is just awesome.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8420334110428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2172</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Great UI as expected but heats up while calling</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome interface but heats up significantly if use any apps while on call.. Or when u charge while on call.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">61.8490756128954</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2173</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">superb deal awesome phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">firstly i thought how come it be so cheap, there must be some something not right. but then i thought i can return it within 7 day replacement/return  warranty. but when i recieved it it was in excellent packing and excellent condition. i just love it. snapdeal u rock.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">79.8985956271455</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2174</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Just Perfect</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect phone with all the Finesse,Best hardware and software combination.
+Snapdeal as usual provides good service and best price.
+Happy with the purchase</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8086439989031</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2175</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect dil ki deal ! - iPhone 6s</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Initially, i was confused whether i should buy my iPhone 6s from an apple retailer or from an online retailer through Snapdeal.  But then i saw this deal on Snapdeal where i was getting 10% discount + extra offer discount. Within few minutes i ordered this phone at a very very low price as compared to the market price.
+I ordered this phone on 28/11/15 and it was in my hand on 30/11/15. Hats Off Snapdeal !
+
+Now, why iPhone 6s ?
+
+Camera 5/5
+Design 4/5
+Feature 5/5
+Performance 5/5
+Battery 3.5/5
+
+So if you want to shift from android to ios, this is your phone. But if you are already using iPhone 6 then think about it again.
+
+So, great product, great service, great deal !</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">94.5294175102779</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2176</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Good Phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Using 6s from 1 month, purchased because i just wanted to buy it, didn't checked any feature or specifications anywhere before purchasing.
+
+Downloaded and played all heavy games, runs smooth.
+
+Performance is great, phone never hangs, no matter u launch something and immediately cancel, or launch some other app.
+
+Display is something which no other manufacturer can replicate.
+
+Retina display is so good, makes eyes feel no pressure.
+
+I have used 2 androids, 2 Windows phones, this is the first apple phone, and its up to my expectations.
+
+If its costly, that's what makes is Apple.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">90.3388295162428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2177</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone 6s - Ridiculously powerful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Yup. What am going to say is completely real. The moment you get the iPhone 6S you will feel some super natural force comes into your hand. Do not laugh. This is real. The look, grace, elegance, ravishing looks, beauty and what not are the characteristics of the phone. This is blend of extremely fast, smart, powerful, premium, perfection which makes you feel like a ultimate mobile in your hand. The battery is superb and lasting for many hours.  Seriously you do not need an another battery. Sorry samsung. It is really really worth to buy this product. This make you gorgeous. Trust me. It is truly apt - if it is not an iPhone it is not an IPhone.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.99839110602</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2178</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Best phone money can buy currently</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome build quality
+Great battery
+Mindblowing display
+Gaming experience is unmatched</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">98.1444543662396</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2179</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">iPhone is Perfect.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">The Phone is perfect. I've been using Apple for the last 8years now. This is my first Apple product bought in India and first high-value product bought on-line with alot of doubts like originality, warranty and other issues. I am completely satisfied with the product . The only area where i was disappointed was the delivery of Xpressbees. The product has reached Hyderabad from Bangalore in 2 days and it took the delivery guys to deliver the product in Hyderabad after 4days....</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">0.126785455513885</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2180</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Wonderful</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Snapdeal thanks for providing me this wonderful  iPhone 6s. It is really beautifully designed with awesome new features</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.995654608653</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2181</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome feel with fast delivery of SD</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Box packed piece with good packing, delivered within two days. Original product with all original accessories in box.
+Using iPhone 6S gives premium feel than any other competitors in same segment. 
+In this price segment hardware,performance, function, features are almost same, what matter is body material, looks, feel which is just awesome.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8420334110428</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2182</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Great UI as expected but heats up while calling</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Awesome interface but heats up significantly if use any apps while on call.. Or when u charge while on call.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">4</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">61.8490756128954</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2183</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">superb deal awesome phone</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">firstly i thought how come it be so cheap, there must be some something not right. but then i thought i can return it within 7 day replacement/return  warranty. but when i recieved it it was in excellent packing and excellent condition. i just love it. snapdeal u rock.</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">79.8985956271455</ss:Data></ss:Cell>
+</ss:Row>
+<ss:Row>
+<ss:Cell><ss:Data ss:Type="String">2184</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Just Perfect</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Apple iPhone 6 (Space Grey, 16 GB)</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">Perfect phone with all the Finesse,Best hardware and software combination.
+Snapdeal as usual provides good service and best price.
+Happy with the purchase</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">5</ss:Data></ss:Cell>
+<ss:Cell><ss:Data ss:Type="String">99.8086439989031</ss:Data></ss:Cell>
+</ss:Row>
+</ss:Table>
+</ss:Worksheet>
+</ss:Workbook>

@@ -1,0 +1,109 @@
+html,body {
+    width:100%;
+    margin:0px;
+}
+
+.colorBlue {
+  background-color: #0040FF;
+}
+
+ul {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.padUp {
+  margin-top: 300px;
+}
+
+.z-1{
+  z-index: -1;
+}
+
+.z0{
+  z-index: 0;
+}
+
+.z1{
+  z-index: 1;
+}
+
+.z2{
+  z-index: 2;
+}
+
+.z150{
+  z-index: 150;
+}
+
+.slideUp {
+  display:block;
+}
+
+.slideDown {
+  display:none;
+}
+
+.row{
+  width: 100%;
+}
+
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.navbar {
+	 position: relative;
+	 min-height: 50px;
+    border: 1px solid transparent;
+	 padding-right: 0; 
+    padding-left: 0;
+    border-radius: 0;
+    background-color: #b0b0b0;
+    box-shadow: 0px 2px 2px black;
+}
+
+.navbar-border {
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-top: 0px;
+}
+
+
+.navbar-brand {
+	float: left;
+  	height: 25px;
+  	padding: 15px 15px;
+  	font-size: 18px;
+  	line-height: 20px;
+}
+
+.navbar-brand h4{
+	margin-top: -5px;
+	font-size: 30px;
+  color: white;
+	font-family: cursive, sans-serif;
+	font-style: oblique;
+}
+
+.col a
+{
+    color: #ffffff;
+}
+
+.col a:hover
+{
+     color: #000000;
+    background:-webkit-linear-gradient(#FFFFFF,#989898);
+    background: -o-linear-gradient(#FFFFFF,#989898); /* For Opera 11.1 to 12.0 */
+    background: -moz-linear-gradient(#FFFFFF,#989898); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(#FFFFFF,#989898);
+    box-shadow: 0px 5px 5px #000000;
+}
+
+.containerMargin {
+  margin-top: 150px;
+}
